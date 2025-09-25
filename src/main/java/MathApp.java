@@ -27,7 +27,7 @@ public class MathApp {
 
         int calcX = x2 - x1;
         int calcY = y2 - y1;
-        double pythag = (double)Math.sqrt(calcX + calcY);
+        double pythag = (double)Math.sqrt(Math.pow(calcX, 2) + Math.pow(calcY, 2));
 
 //        6. Finding absolute positive value of variable
         float var = -3.8f;
