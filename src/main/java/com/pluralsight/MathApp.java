@@ -1,3 +1,5 @@
+package com.pluralsight;
+
 public class MathApp {
     public static void main(String[] args) {
 //        1. comparing two salaries and returning the higher one
