@@ -42,6 +42,7 @@ public class MathApp {
         int days = 24;
         int calcMinutes = (days * hours) * minutes;
 
+//      Printing out everything
         System.out.println("1. The highest salary is: " + highestSalary);
         System.out.println("2. The lowest price is: " + lowestPrice);
         System.out.println("3. The area for a circle with radius of " + radius + " is approximately: " + area);
